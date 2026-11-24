@@ -1,72 +1,29 @@
-<h1 align="center">hey, I'm Rayandika ☀</h1>
+<a href="https://mrayandika15.github.io/rayandika/"><img src="./assets/hero.svg" width="100%" alt="mrayandika. AI Agent Engineer, Bandung, ID. I build AI teams that make work flow. 4+ years in software engineering, now building intelligent agents, connected tools, and workflows that lighten your workload." /></a>
 
-<h3 align="center">AI Agent Engineer · Multi-Agent Systems & Workflow Automation · Bandung, ID</h3>
+<a href="https://mrayandika15.github.io/rayandika/about/"><img src="./assets/about.svg" width="100%" alt="About me: I'm an AI Agent Engineer with 4+ years in software engineering. I build agent teams that collaborate, connect with your business tools, and take repetitive work off your plate. Multi-agent systems, agent tooling, workflow automation, software engineering." /></a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F4C430&center=true&vCenter=true&width=720&height=50&lines=%3E+spawning+agent+team...;%3E+coordinator+%E2%86%92+research+%E2%86%92+build+%E2%86%92+review+%E2%9C%93;%3E+make+things.+sweat+the+details.;%3E+less%2C+but+better." alt="typing intro" />
-</p>
+<img src="./assets/build.svg" width="100%" alt="How I can help, from a business process to a working agent system. 01 AI agent teams: specialized agents that coordinate, delegate tasks, and work toward a shared business outcome. 02 Workflows that do the work: agents connected to your tools and data, with evaluation and human checkpoints. 03 Software that holds it together: full-stack apps and integrations that turn an agent workflow into a product people use." />
 
-<h2 align="center">about me</h2>
+<img src="./assets/label-work.svg" width="100%" alt="Some things I've made: selected projects" />
 
-<img align="right" src="https://mrayandika15.github.io/rayandika/images/rayandika.webp" width="220" alt="Muhammad Rayandika smiling" />
+<a href="https://mrayandika15.github.io/rayandika/work/harness-agent-canvas/"><img src="./assets/project-harness.svg" width="100%" alt="Project 01, Harness Agent Canvas: design an agent's steps on a node canvas, trigger it from chat, and watch tool output stream back. Next.js, TypeScript, React Flow, Zustand." /></a>
 
-I build **AI agent teams** that take repetitive work off people's plates: specialized agents that plan, hand off tasks, call real tools, and finish the job, with a human checkpoint where it matters.
+<a href="https://ipms.co.id"><img src="./assets/project-ipms.svg" width="100%" alt="Project 02, IPMS + INTI PAY: corporate site, CMS, and an online payment point for a Bandung manufacturing company. React, Express, PostgreSQL." /></a>
 
-Before agents, I spent **4+ years shipping software**: Next.js and React front ends, Python and Java services, a live payment platform, GIS map interfaces, and reusable UI libraries. That's still the part that turns an agent demo into something a team actually uses.
+<a href="https://soccerchief.co"><img src="./assets/project-soccer.svg" width="100%" alt="Project 03, Soccer Chief: online field booking for a Jakarta mini soccer venue. Next.js, React, Express, MongoDB." /></a>
 
-- 🤖 Right now: leading engineering at **Potenlab**, building multi-agent systems and agent workflows
-- 🧩 Playing with: visual tooling for agents ([Harness Agent Canvas](https://github.com/mrayandika15/harness-agent-canvas))
-- 🇮🇩 Part of **FDE Indonesia**, forward deployed engineers
-- ⌨️ Lives in: Neovim, a terminal, and too many agent tabs
+<img src="./assets/toolbox.svg" width="100%" alt="Toolbox: OpenAI Agents SDK, Claude, MCP, RAG, multi-agent orchestration, evaluation harnesses, TypeScript, Python, Java, React, Next.js, Vue, Node.js, Express, PostgreSQL, MongoDB, Docker, Tailwind CSS, Git, Linux, Neovim, MapLibre." />
 
-<br clear="right"/>
-
-<h2 align="center">what I build</h2>
-
-| | |
-|---|---|
-| **🧠 AI agent teams** | Coordinators and specialist agents that split a task, delegate, and work toward one outcome |
-| **⚙️ Workflows that do the work** | Agents wired into your tools and data, with evaluation and human review built in |
-| **🧱 Software that holds it together** | Full-stack apps and integrations that turn an agent flow into a product people use |
-
-<h2 align="center">selected work</h2>
+<img src="./assets/label-stats.svg" width="100%" alt="The numbers, roughly: GitHub activity" />
 
 <p align="center">
-  <a href="https://github.com/mrayandika15/harness-agent-canvas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mrayandika15&repo=harness-agent-canvas&theme=transparent&hide_border=true&title_color=F4C430&icon_color=F4C430" alt="Harness Agent Canvas" /></a>
-</p>
-
-- **[Harness Agent Canvas](https://mrayandika15.github.io/rayandika/work/harness-agent-canvas/)**: design an agent's steps on a node canvas, trigger it from chat, watch tool output stream back. Next.js, TypeScript, React Flow.
-- **IPMS + INTI PAY** ([ipms.co.id](https://ipms.co.id)): corporate site, CMS, and online payment point for a Bandung manufacturing company. React, Express, PostgreSQL.
-- **Soccer Chief** ([soccerchief.co](https://soccerchief.co)): online field booking for a Jakarta mini soccer venue. Next.js, Express, MongoDB.
-
-👉 More on my portfolio: **[mrayandika15.github.io/rayandika](https://mrayandika15.github.io/rayandika/)**
-
-<h2 align="center">toolbox</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,java,react,nextjs,vue,nodejs,express,tailwind,postgres,mongodb,docker,git,linux,neovim&perline=15" alt="tech stack" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrayandika15&show_icons=true&bg_color=f8f7f2&title_color=191610&text_color=56524b&icon_color=1c4ed0&border_color=d8d8d3&ring_color=f7c73c" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayandika15&layout=compact&bg_color=f8f7f2&title_color=191610&text_color=56524b&border_color=d8d8d3" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-111?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Orchestration-F4C430?style=for-the-badge&logoColor=111" alt="Multi-agent orchestration" />
-  <img src="https://img.shields.io/badge/RAG-2F6F4E?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/Evaluation_Harnesses-E86FA8?style=for-the-badge" alt="Evaluation harnesses" />
+  <img src="https://streak-stats.demolab.com/?user=mrayandika15&background=f8f7f2&border=d8d8d3&stroke=d8d8d3&ring=f7c73c&fire=f779ba&currStreakNum=191610&sideNums=191610&currStreakLabel=191610&sideLabels=56524b&dates=56524b" alt="GitHub streak" />
 </p>
-
-<h2 align="center">stats</h2>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrayandika15&show_icons=true&theme=transparent&hide_border=true&title_color=F4C430&icon_color=F4C430" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayandika15&layout=compact&theme=transparent&hide_border=true&title_color=F4C430" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrayandika15&theme=transparent&hide_border=true&ring=F4C430&fire=E86FA8&currStreakLabel=F4C430" alt="GitHub streak" />
-</p>
-
-<h2 align="center">⌘ commit activity</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrayandika15/mrayandika15/output/pacman-contribution-graph-dark.svg">
@@ -74,4 +31,12 @@ Before agents, I spent **4+ years shipping software**: Next.js and React front e
   <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/mrayandika15/mrayandika15/output/pacman-contribution-graph.svg">
 </picture>
 
-<p align="center"><i>small pieces, big possibilities ✳</i></p>
+<img src="./assets/talk.svg" width="100%" alt="Let's talk. Have a workflow to automate or an agent team to build? Let's connect the tools, the people, and the software." />
+
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~013f1d1af195891734"><img src="./assets/btn-upwork.svg" alt="Hire me on Upwork" /></a>
+  <a href="https://mrayandika15.github.io/rayandika/"><img src="./assets/btn-portfolio.svg" alt="See my portfolio" /></a>
+  <a href="https://github.com/mrayandika15?tab=repositories"><img src="./assets/btn-github.svg" alt="More on GitHub" /></a>
+</p>
+
+<p align="center"><sub>Muhammad Rayandika · AI Agent Engineer · multi-agent systems & workflow automation · Bandung, Indonesia</sub></p>
