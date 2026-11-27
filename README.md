@@ -86,8 +86,8 @@ flowchart LR
 | | project | what it is | built with |
 |:-:|---|---|---|
 | 📁 01 | **[Harness Agent Canvas](https://github.com/mrayandika15/harness-agent-canvas)** | Design an agent's steps on a node canvas, trigger it from chat, watch tool output stream back. | Next.js · TypeScript · React Flow · Zustand |
-| 📁 02 | **[IPMS + INTI PAY](https://ipms.co.id)** | Corporate site, CMS, and an online payment point for a Bandung manufacturing company. | React · Express · PostgreSQL |
-| 📁 03 | **[Soccer Chief](https://soccerchief.co)** | Online field booking for a Jakarta mini soccer venue, led end to end. | Next.js · Express · MongoDB |
+| 📁 02 | **IPMS + INTI PAY** | Corporate site, CMS, and an online payment point for a Bandung manufacturing company. | React · Express · PostgreSQL |
+| 📁 03 | **Soccer Chief** | Online field booking for a Jakarta mini soccer venue, led end to end. | Next.js · Express · MongoDB |
 
 <details>
 <summary>🎈 <b>playground</b> <i>(small things, just for fun)</i></summary>
